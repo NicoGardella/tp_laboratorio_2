@@ -23,6 +23,10 @@ namespace Entidades_2018
             }
         }
 
+        /// <summary>
+        /// muestra todos los datos de snacks
+        /// </summary>
+        /// <returns></returns>
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();

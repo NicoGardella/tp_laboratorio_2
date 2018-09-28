@@ -30,7 +30,7 @@ namespace Entidades_2018
         /// <returns></returns>
         public virtual string Mostrar()
         {
-            return this.ToString();
+            return (string)this;
         }
 
         public static explicit operator string(Producto p)
