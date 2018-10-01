@@ -17,3 +17,8 @@ C:\ProyectosLABO\labo2\tp_laboratorio_2\TP2\TP-02-Cascara\TP-02\Entidades\obj\De
 C:\ProyectosLABO\labo2\tp_laboratorio_2\TP2\TP-02-Cascara\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\ProyectosLABO\labo2\tp_laboratorio_2\TP2\TP-02-Cascara\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\ProyectosLABO\labo2\tp_laboratorio_2\TP2\TP-02-Cascara\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP2\TP-02-Cascara\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP2\TP-02-Cascara\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP2\TP-02-Cascara\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP2\TP-02-Cascara\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP2\TP-02-Cascara\TP-02\Entidades\obj\Debug\Entidades.pdb

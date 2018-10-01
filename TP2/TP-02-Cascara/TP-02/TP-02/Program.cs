@@ -51,16 +51,16 @@ namespace TP_02_2018
             Console.WriteLine(changoDeCompras.ToString());
             Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.ReadKey();
-            Console.Clear();
+            Console.Clear();            
 
-            // Muestro solo Dulces
-            Console.WriteLine(Changuito.Mostrar(changoDeCompras, Changuito.ETipo.Dulce));
+            // Muestro solo Leches
+            Console.WriteLine(Changuito.Mostrar(changoDeCompras, Changuito.ETipo.Leche));
             Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.ReadKey();
             Console.Clear();
 
-            // Muestro solo Leches
-            Console.WriteLine(Changuito.Mostrar(changoDeCompras, Changuito.ETipo.Leche));
+            // Muestro solo Dulces
+            Console.WriteLine(Changuito.Mostrar(changoDeCompras, Changuito.ETipo.Dulce));
             Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.ReadKey();
             Console.Clear();
