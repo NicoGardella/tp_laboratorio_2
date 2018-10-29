@@ -1,0 +1,5 @@
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\obj\Debug\Archivos.pdb

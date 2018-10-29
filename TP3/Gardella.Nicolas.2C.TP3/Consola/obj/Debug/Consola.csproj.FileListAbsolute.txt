@@ -1,0 +1,16 @@
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Consola\bin\Debug\Consola.exe.config
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Consola\bin\Debug\Consola.exe
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Consola\bin\Debug\Consola.pdb
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Consola\bin\Debug\Archivos.dll
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Consola\bin\Debug\ClasesAbstractas.dll
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Consola\bin\Debug\ClasesInstanciables.dll
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Consola\bin\Debug\Excepciones.dll
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Consola\bin\Debug\Archivos.pdb
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Consola\bin\Debug\ClasesAbstractas.pdb
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Consola\bin\Debug\ClasesInstanciables.pdb
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Consola\bin\Debug\Excepciones.pdb
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Consola\obj\Debug\Consola.exe
+C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Consola\obj\Debug\Consola.pdb
