@@ -1,4 +1,5 @@
-﻿using Excepciones;
+﻿using Archivos;
+using Excepciones;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -60,8 +61,9 @@ namespace ClasesInstanciables
         }
         public static bool Guardar(Universidad uni)
         {
-            return true;
-            //TODO
+            Xml<Universidad> xml = new Xml<Universidad>();
+
+            return xml.guardar(AppDomain.CurrentDomain.BaseDirectory + "Universidad.xml", u);
         }
         private static string MostrarDatos(Universidad uni)
         {

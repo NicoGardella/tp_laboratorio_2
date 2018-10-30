@@ -48,6 +48,10 @@
     <Compile Include="Universidad.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Archivos\Archivos.csproj">
+      <Project>{e88d54fc-dc99-4b52-8f68-bbd62af587ca}</Project>
+      <Name>Archivos</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ClasesAbstractas\ClasesAbstractas.csproj">
       <Project>{869bce12-7889-4e48-a1aa-52ec7b769d00}</Project>
       <Name>ClasesAbstractas</Name>
