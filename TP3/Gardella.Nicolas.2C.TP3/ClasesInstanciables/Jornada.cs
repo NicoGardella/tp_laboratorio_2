@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using Archivos;
+using System;
+using System.Collections.Generic;
 using System.Text;
 using static ClasesInstanciables.Universidad;
 
@@ -54,14 +56,18 @@ namespace ClasesInstanciables
         }
         public static bool Guardar(Jornada jornada)
         {
-            return true;
-            //TODO
+            Texto texto = new Texto();
+            string path = AppDomain.CurrentDomain.BaseDirectory + "Jornada.txt";
+            string txtDato = jornada.ToString();
+            return texto.Guardar(path, txtDato);
         }
         public string Leer()
         {
-            StringBuilder sb = new StringBuilder();
-            //TODO
-            return sb.ToString();
+            string retorno;
+            Texto texto = new Texto();
+            string path = AppDomain.CurrentDomain.BaseDirectory + "Jornada.txt";
+            texto.Leer(path, out retorno);
+            return retorno;
         }
         public static bool operator ==(Jornada j, Alumno a)
         {
@@ -96,7 +102,7 @@ namespace ClasesInstanciables
             {
                 sb.AppendLine(a.ToString());
             }
-
+            sb.AppendLine("<------------------------------------------------------->");
             return sb.ToString();
         }
     }

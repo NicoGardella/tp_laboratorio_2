@@ -7,3 +7,12 @@ C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Garde
 C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
 C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
 C:\ProyectosLABO\labo2\Nueva carpeta\tp_laboratorio_2\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
+C:\ProyectosLABO\labo2\Mis tps\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\ProyectosLABO\labo2\Mis tps\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\ProyectosLABO\labo2\Mis tps\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\ProyectosLABO\labo2\Mis tps\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\ProyectosLABO\labo2\Mis tps\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\ProyectosLABO\labo2\Mis tps\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\ProyectosLABO\labo2\Mis tps\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
+C:\ProyectosLABO\labo2\Mis tps\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\ProyectosLABO\labo2\Mis tps\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

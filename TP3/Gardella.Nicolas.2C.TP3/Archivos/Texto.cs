@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Excepciones;
+using System;
+using System.IO;
 
 namespace Archivos
 {
@@ -10,11 +8,38 @@ namespace Archivos
     {
         public bool Guardar(string archivo, string datos)
         {
+            StreamWriter sw = null;
+            try
+            {
+                sw = new StreamWriter(archivo, true);
+                sw.WriteLine(datos);
+            }
+            catch (Exception e)
+            {
+                throw new ArchivosException();
+            }
+            finally
+            {
+                sw.Close();
+            }
             return true;
         }
         public bool Leer(string archivo, out string datos)
         {
-            datos = "";
+            StreamReader sw = null;
+            try
+            {
+                sw = new StreamReader(archivo);
+                datos = sw.ReadToEnd();
+            }
+            catch (Exception e)
+            {
+                throw new ArchivosException();
+            }
+            finally
+            {
+                sw.Close();
+            }
             return true;
         }
     }

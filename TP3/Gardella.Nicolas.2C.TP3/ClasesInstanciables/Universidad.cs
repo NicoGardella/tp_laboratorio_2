@@ -62,8 +62,8 @@ namespace ClasesInstanciables
         public static bool Guardar(Universidad uni)
         {
             Xml<Universidad> xml = new Xml<Universidad>();
-
-            return xml.guardar(AppDomain.CurrentDomain.BaseDirectory + "Universidad.xml", u);
+            string path = AppDomain.CurrentDomain.BaseDirectory + "Universidad.xml";
+            return xml.Guardar(path, uni);
         }
         private static string MostrarDatos(Universidad uni)
         {
@@ -74,7 +74,7 @@ namespace ClasesInstanciables
             foreach (Jornada j in uni.jornada)
             {
                 sb.AppendLine(j.ToString());
-                sb.AppendLine("<------------------------------------------------------->");
+               // sb.AppendLine("<------------------------------------------------------->");
             }
 
             return sb.ToString();
