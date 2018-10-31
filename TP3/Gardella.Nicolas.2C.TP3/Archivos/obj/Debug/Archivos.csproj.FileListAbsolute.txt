@@ -12,3 +12,12 @@ C:\ProyectosLABO\labo2\Mis tps\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Arch
 C:\ProyectosLABO\labo2\Mis tps\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 C:\ProyectosLABO\labo2\Mis tps\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\obj\Debug\Archivos.dll
 C:\ProyectosLABO\labo2\Mis tps\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+D:\labo2\TPs\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\bin\Debug\Archivos.dll
+D:\labo2\TPs\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\labo2\TPs\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+D:\labo2\TPs\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+D:\labo2\TPs\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\labo2\TPs\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\labo2\TPs\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+D:\labo2\TPs\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\obj\Debug\Archivos.dll
+D:\labo2\TPs\tp_laboratorio_2\TP3\Gardella.Nicolas.2C.TP3\Archivos\obj\Debug\Archivos.pdb

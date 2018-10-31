@@ -36,6 +36,10 @@ namespace ClasesInstanciables
         {
             return a.claseQueToma != clase;
         }
+        /// <summary>
+        /// muestra clase en la que participa el alumno
+        /// </summary>
+        /// <returns></returns>
         protected override string ParticiparEnClase()
         {
             return "TOMA CLASE DE " + this.claseQueToma.ToString();
@@ -49,11 +53,15 @@ namespace ClasesInstanciables
             StringBuilder retorno = new StringBuilder();
 
             retorno.AppendLine(base.MostrarDatos());
-            retorno.AppendLine("ESTADO DE CUENTA: " + this.estadoCuenta.ToString());
+            retorno.AppendLine("ESTADO DE CUENTA: " + (this.estadoCuenta==EEstadoCuenta.AlDia?"Cuota al día":this.estadoCuenta.ToString()));
             retorno.AppendLine(this.ParticiparEnClase());
 
             return retorno.ToString();
         }
+        /// <summary>
+        /// llama a MostrarDatos()
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             return this.MostrarDatos();

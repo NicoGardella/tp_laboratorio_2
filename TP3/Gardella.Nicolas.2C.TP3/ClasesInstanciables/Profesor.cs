@@ -26,6 +26,10 @@ namespace ClasesInstanciables
 
             return sb.ToString();
         }
+        /// <summary>
+        /// Muestra las clases que tiene asignadas el profesor
+        /// </summary>
+        /// <returns></returns>
         protected override string ParticiparEnClase()
         {
             StringBuilder sb = new StringBuilder();
@@ -36,6 +40,10 @@ namespace ClasesInstanciables
             }
             return sb.ToString();
         }
+        /// <summary>
+        /// llama a MostrarDatos()
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             return this.MostrarDatos();

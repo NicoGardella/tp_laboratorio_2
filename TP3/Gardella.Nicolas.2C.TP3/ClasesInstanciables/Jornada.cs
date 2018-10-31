@@ -54,6 +54,12 @@ namespace ClasesInstanciables
             this.Instructor = instructor;
             this.Clase = clase;
         }
+
+        /// <summary>
+        /// Guarda los datos de jordana previamente formateados en un archivo txt
+        /// </summary>
+        /// <param name="jornada"></param>
+        /// <returns></returns>
         public static bool Guardar(Jornada jornada)
         {
             Texto texto = new Texto();
@@ -61,6 +67,10 @@ namespace ClasesInstanciables
             string txtDato = jornada.ToString();
             return texto.Guardar(path, txtDato);
         }
+        /// <summary>
+        /// lee el archivo txt y retorna en un string 
+        /// </summary>
+        /// <returns></returns>
         public string Leer()
         {
             string retorno;
@@ -69,14 +79,32 @@ namespace ClasesInstanciables
             texto.Leer(path, out retorno);
             return retorno;
         }
+        /// <summary>
+        /// Devuelve true cuando la jornada j contiene al alumno a en su lista de alumnos
+        /// </summary>
+        /// <param name="j"></param>
+        /// <param name="a"></param>
+        /// <returns></returns>
         public static bool operator ==(Jornada j, Alumno a)
         {
             return j.Alumnos.Contains(a);
         }
+        /// <summary>
+        /// niega el metodo anteriorE
+        /// </summary>
+        /// <param name="j"></param>
+        /// <param name="a"></param>
+        /// <returns></returns>
         public static bool operator !=(Jornada j, Alumno a)
         {
             return !(j == a);
         }
+        /// <summary>
+        /// en caso de que la jornada no contenga al alumno, lo agrega a la lista
+        /// </summary>
+        /// <param name="j"></param>
+        /// <param name="a"></param>
+        /// <returns></returns>
         public static Jornada operator +(Jornada j, Alumno a)
         {
             if (j != a)

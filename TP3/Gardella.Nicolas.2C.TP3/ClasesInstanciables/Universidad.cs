@@ -59,12 +59,22 @@ namespace ClasesInstanciables
                 this.jornada[i] = value;
             }
         }
+        /// <summary>
+        /// guarda en un archivo XML los datos de uni
+        /// </summary>
+        /// <param name="uni"></param>
+        /// <returns></returns>
         public static bool Guardar(Universidad uni)
         {
             Xml<Universidad> xml = new Xml<Universidad>();
             string path = AppDomain.CurrentDomain.BaseDirectory + "Universidad.xml";
             return xml.Guardar(path, uni);
         }
+        /// <summary>
+        /// Crea un string con los datos de uni en el formato pedido
+        /// </summary>
+        /// <param name="uni"></param>
+        /// <returns></returns>
         private static string MostrarDatos(Universidad uni)
         {
             StringBuilder sb = new StringBuilder();
@@ -79,6 +89,10 @@ namespace ClasesInstanciables
 
             return sb.ToString();
         }
+        /// <summary>
+        /// llama a MostrarDatos()
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             return MostrarDatos(this);
