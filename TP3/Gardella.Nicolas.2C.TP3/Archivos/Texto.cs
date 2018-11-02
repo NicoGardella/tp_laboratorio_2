@@ -38,7 +38,15 @@ namespace Archivos
             }
             finally
             {
-                sw.Close();
+                try
+                {
+                    sw.Close();
+                }
+                catch (Exception)
+                {
+
+                    
+                }
             }
             return true;
         }
