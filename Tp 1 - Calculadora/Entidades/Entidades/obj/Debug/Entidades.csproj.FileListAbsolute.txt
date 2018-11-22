@@ -1,6 +1,0 @@
-D:\VisualStudio\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-D:\VisualStudio\Entidades\Entidades\bin\Debug\Entidades.exe.config
-D:\VisualStudio\Entidades\Entidades\bin\Debug\Entidades.exe
-D:\VisualStudio\Entidades\Entidades\bin\Debug\Entidades.pdb
-D:\VisualStudio\Entidades\Entidades\obj\Debug\Entidades.exe
-D:\VisualStudio\Entidades\Entidades\obj\Debug\Entidades.pdb
