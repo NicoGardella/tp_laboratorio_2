@@ -67,7 +67,7 @@ namespace Entidades
             {
                 System.Threading.Thread.Sleep(1000);
                 this.Estado++;                
-                InformarEstado(this.Estado, null);
+                InformaEstado(this.Estado, null);
             } while (this.Estado != EEstado.Entregado);
             try
             {

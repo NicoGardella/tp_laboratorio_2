@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entidades;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,9 +13,22 @@ namespace MainCorreo
 {
     public partial class frmPpal : Form
     {
+        Correo correo = new Correo();
         public frmPpal()
-        {
+        {           
             InitializeComponent();
+        }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+            string trackingID = mtxtTrackingID.Text;
+            string direccion = txtDireccion.Text;
+            Paquete paquete = new Paquete(direccion, trackingID);
+            if(paquete != null)
+            {
+                correo.Paquetes.Add(paquete);
+            }
+
         }
     }
 }
