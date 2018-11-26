@@ -173,6 +173,7 @@
             this.btnMostrarTodos.TabIndex = 1;
             this.btnMostrarTodos.Text = "Mostrar Todos";
             this.btnMostrarTodos.UseVisualStyleBackColor = true;
+            this.btnMostrarTodos.Click += new System.EventHandler(this.btnMostrarTodos_Click_1);
             // 
             // btnAgregar
             // 
@@ -216,6 +217,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "frmPpal";
             this.Text = "Correo UTN por Nicolas.Gardella.2c";
+            
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);

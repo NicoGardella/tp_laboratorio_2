@@ -3,11 +3,12 @@ using System.Text;
 
 namespace Entidades
 {
-    public delegate void DelegadoEstado(Object sender, EventArgs e);    
+    public delegate void DelegadoEstado(Object sender, EventArgs e);
+    public delegate void DelegadoConexion(object sender, Exception inner);
     public class Paquete : IMostrar<Paquete>
     {
         public event DelegadoEstado InformaEstado;
-        public event DelegadoEstado InformarConexion;
+        public event DelegadoConexion InformarConexion;
 
         public enum EEstado
         {
