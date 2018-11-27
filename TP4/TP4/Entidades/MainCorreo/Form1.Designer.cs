@@ -217,7 +217,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "frmPpal";
             this.Text = "Correo UTN por Nicolas.Gardella.2c";
-            
+            this.Load += new System.EventHandler(this.FrmPpal_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);

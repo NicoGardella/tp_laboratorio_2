@@ -52,7 +52,7 @@ namespace Entidades
             {
                 if (p == aux)
                 {
-                    //throw new TrackingIdRepetidoException("Id repetido");
+                    throw new TrackingIdRepetidoException("Id repetido");
                 }
             }
             c.paquetes.Add(p);
